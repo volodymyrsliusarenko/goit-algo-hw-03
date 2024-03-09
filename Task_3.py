@@ -1,0 +1,1 @@
+print('HW3 task 3')
